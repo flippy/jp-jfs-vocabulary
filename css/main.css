@@ -1,0 +1,250 @@
+@font-face {
+  font-family: "Meiryo";
+  src: url(../fonts/Meiryo.ttf) format("truetype");
+}
+
+body {
+  margin: 30px 10%;
+  font-family: 'Source Sans Pro', sans-serif, Meiryo;
+}
+
+/********* History area **********/
+
+.history-area {
+  float: left;
+  width: 25%;
+}
+
+.history-area-tabs.ui-widget.ui-widget-content {
+  border: none;
+}
+
+.history-area-tabs .ui-tabs-nav li.ui-tabs-active {
+  background: #f6f6f6;
+  color: inherit;
+  border: inherit;
+  font-weight: bold;
+}
+
+.history-area-tabs .ui-state-active a,
+.history-area-tabs .ui-state-active a:link,
+.history-area-tabs .ui-state-active a:visited {
+  color: inherit;
+}
+
+.kanji-history-item {
+  border-bottom: 1px black solid;
+  padding: 10px 0 10px 30px;
+}
+
+.kanji-history-item:before {
+  content: '';
+  background-image: url('../img/correct.png');
+  background-size: 16px 16px;
+  background-repeat: no-repeat;
+  width: 16px;
+  height: 16px;
+  display: block;
+  position: absolute;
+  margin-left: -30px;
+  margin-top: 4px;
+}
+
+.kanji-history-item.kanji-history-item-wrong:before {
+  background-image: url('../img/wrong.png');
+}
+
+.kanji-history-item:last-child {
+  border-bottom: none;
+}
+
+.kanji-history-item-mistake,
+.remaining-word-mistakes {
+  color: #777;
+}
+
+.kanji-on {
+  color: #00c;
+}
+
+/********* Test area **********/
+
+.test-area {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#start-test-button {
+  font-size: 40px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.remaining-words {
+  margin-top: 30px;
+}
+
+.word-display {
+  font-size: 20px;
+  margin: 20px auto;
+  max-width: 500px;
+  /*margin-top: -50px;
+  margin-bottom: 80px;*/
+}
+
+.word-display-container {
+  border: 1px solid #000;
+  padding: 10px;
+  display: none;
+  min-height: 30px;
+}
+
+.word-display-header {
+  float: left;
+  height: 100%;
+}
+
+.word-navigation {
+  display: none;
+}
+
+.word-navigation-button {
+  font-size: 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 0 5px;
+  padding: 5px;
+}
+
+/********* Filter area **********/
+
+.filter-area {
+  width: 100%;
+  text-align: center;
+}
+
+.lesson-selection-toggle {
+  font-size: 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 5px;
+}
+
+.lesson-selection {
+  display: none;
+  margin: 10px 0;
+}
+
+.lesson-mass-selection-label {
+  font-style: italic;
+}
+
+.lesson-selection-checkbox {
+  margin-left: 20px;
+}
+
+.learn-words {
+  background-image: url('../img/glasses.ico');
+  background-size: 16px 16px;
+  background-repeat: no-repeat;
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+/********* Learn Overlay **********/
+
+#learn-overlay {
+  position: fixed; /* Sit on top of the page content */
+  display: none; /* Hidden by default */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.8); /* Black background with opacity */
+  z-index: 200; /* Specify a stack order in case you're using a different order for other elements */
+  cursor: pointer; /* Add a pointer on hover */
+}
+
+#learn-overlay-table {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 20px;
+  color: white;
+  transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  background-color: #000;
+  border: 1px solid;
+}
+
+#learn-overlay-table th,
+#learn-overlay-table td {
+  padding: 10px 20px;
+  border: 1px solid;
+}
+
+/********* Header **********/
+
+#header {
+  position: relative;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.word-search-box-label,
+.word-search-box {
+  font-size: 20px;
+}
+
+.word-search-table {
+  width: 300px;
+}
+
+.word-search-table th,
+.word-search-table td {
+  padding: 10px 20px;
+  border: 1px solid;
+}
+ .ui-menu .word-search-table .ui-menu-item,
+ .ui-menu .word-search-table.ui-menu-item {
+  cursor: default;
+}
+
+.practice-links {
+  margin-right: 50px;
+}
+
+.language-switcher,
+.practice-links {
+  float: right;
+}
+
+.language-switcher-flag {
+  width:20px;
+  margin: -5px 5px;
+}
+
+.language-switcher-lang {
+  cursor: pointer;
+}
+
+.language-switcher-lang.active {
+  font-weight: bold;
+  cursor: default;
+}
+
+/********* Footer **********/
+
+#footer {
+  position: fixed;
+  bottom: 0;
+  width: 80%;
+  text-align: center;
+}
