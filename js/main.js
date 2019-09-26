@@ -305,3 +305,30 @@ $('body').delegate('#learn-overlay', 'click', function() {
   $(this).hide();
 });
 
+document.onkeydown = function(e) {
+  switch (e.keyCode) {
+    case 37:
+      break;
+    case 39:
+      if (test_words.length > 0) {
+        $('#next-word-button').click();
+      }
+      break;
+  }
+};
+
+$(document).touchwipe({
+  wipeLeft: function() {
+    if (test_words.length > 0) {
+      $('#next-word-button').click();
+    }
+  },
+  wipeRight: function() {
+  },
+  wipeUp: function() { },
+  wipeDown: function() { },
+  min_move_x: 20,
+  min_move_y: 20,
+  preventDefaultEvents: true
+});
+

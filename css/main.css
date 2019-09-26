@@ -99,6 +99,9 @@ body {
   padding: 10px;
   display: none;
   min-height: 30px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  background-color: #eee;
 }
 
 .word-display-header {
@@ -196,6 +199,7 @@ body {
   position: relative;
   width: 100%;
   margin-bottom: 20px;
+  text-align: center;
 }
 
 .word-search-box-label,
