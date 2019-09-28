@@ -82,27 +82,24 @@ body {
   margin-top: 20px;
 }
 
-.empty-left {
-  width: 25%;
-  float: left;
-}
-
 .remaining-words-container {
-  width: 600px;
+  width: 100%;
   margin: 30px auto 10px auto;
   padding-bottom: 10px;
+  max-width: 500px;
 }
 
 .remaining-words {
-  width: 50%;
+  width: 70%;
   float: left;
+  text-align: left;
 }
 
 .direction-selection {
-  width: 15%;
+  width: 30%;
   float: right;
   cursor: pointer;
-  margin-right: 45px;
+  text-align: right;
 }
 
 .word-display {
