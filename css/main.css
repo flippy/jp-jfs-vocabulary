@@ -82,14 +82,34 @@ body {
   margin-top: 20px;
 }
 
+.empty-left {
+  width: 25%;
+  float: left;
+}
+
+.remaining-words-container {
+  width: 600px;
+  margin: 30px auto 10px auto;
+  padding-bottom: 10px;
+}
+
 .remaining-words {
-  margin-top: 30px;
+  width: 50%;
+  float: left;
+}
+
+.direction-selection {
+  width: 15%;
+  float: right;
+  cursor: pointer;
+  margin-right: 45px;
 }
 
 .word-display {
   font-size: 20px;
   margin: 20px auto;
   max-width: 500px;
+  clear: both;
   /*margin-top: -50px;
   margin-bottom: 80px;*/
 }
