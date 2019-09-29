@@ -1,6 +1,6 @@
 var lessons = [
   {
-    title: "Kon'nichi wa",
+    title: "1. Kon'nichi wa",
     vocabulary: [
       {
         de: "Uhr",
@@ -20,11 +20,11 @@ var lessons = [
       },
       {
         de: "Guten Morgen!",
-        jp: "ohay&#333; gozaimasu"
+        jp: "ohayō gozaimasu"
       },
       {
         de: "Kaufhaus, Warenhaus",
-        jp: "dep&#257;to"
+        jp: "depāto"
       },
       {
         de: "wann?",
@@ -44,19 +44,15 @@ var lessons = [
       },
       {
         de: "Auf Wiedersehen!",
-        jp: "say&#333;nara"
+        jp: "sayōnara"
       },
       {
         de: "Guten Abend!",
         jp: "konban wa"
       },
       {
-        de: "morgen",
-        jp: "asu"
-      },
-      {
         de: "Konzert",
-        jp: "ongakkai / kons&#257;to*"
+        jp: "ongakkai / konsāto*"
       },
       {
         de: "arbeiten",
@@ -75,7 +71,7 @@ var lessons = [
         jp: "nani"
       },
       {
-        de: "Kaufhaus",
+        de: "Firma",
         jp: "kaisha"
       },
       {
@@ -88,7 +84,7 @@ var lessons = [
       },
       {
         de: "Schule",
-        jp: "gakk&#333;"
+        jp: "gakkō"
       },
       {
         de: "Universität",
@@ -120,7 +116,7 @@ var lessons = [
       },
       {
         de: "Bier",
-        jp: "b&#299;ru*"
+        jp: "bīru*"
       },
       {
         de: "Brot",
@@ -128,7 +124,7 @@ var lessons = [
       },
       {
         de: "Butter",
-        jp: "bat&#257;*"
+        jp: "batā*"
       },
       {
         de: "Obst",
@@ -136,7 +132,7 @@ var lessons = [
       },
       {
         de: "Kaffee",
-        jp: "k&#333;hi"
+        jp: "kōhi"
       },
       {
         de: "Tisch",
@@ -156,7 +152,7 @@ var lessons = [
       },
       {
         de: "heute",
-        jp: "ky&#333;"
+        jp: "kyō"
       },
       {
         de: "morgen",
@@ -164,7 +160,7 @@ var lessons = [
       },
       {
         de: "gestern",
-        jp: "kin&#333;"
+        jp: "kinō"
       },
       {
         de: "vorgestern",
@@ -180,15 +176,15 @@ var lessons = [
       },
       {
         de: "diese Woche",
-        jp: "konsh&#363;"
+        jp: "konshū"
       },
       {
         de: "nächste Woche",
-        jp: "raish&#363;"
+        jp: "raishū"
       },
       {
         de: "letzte Woche",
-        jp: "sensh&#363;"
+        jp: "senshū"
       },
       {
         de: "gehen",
@@ -220,7 +216,7 @@ var lessons = [
       },
       {
         de: "studieren",
-        jp: "benky&#333; o suru"
+        jp: "benkyō o suru"
       },
       {
         de: "einkaufen",
@@ -237,7 +233,7 @@ var lessons = [
     ]
   },
   {
-    title: "Kaimono",
+    title: "2. Kaimono",
     vocabulary: [
       {
         de: "Einkäufe",
@@ -246,6 +242,287 @@ var lessons = [
       {
         de: "Kunde",
         jp: "kyaku"
+      },
+      {
+        de: "Verkäufer(in)",
+        jp: "uriko"
+      },
+      {
+        de: "Willkommen!",
+        jp: "irasshaimase"
+      },
+      {
+        de: "diese (mit Nomen)",
+        jp: "kono"
+      },
+      {
+        de: "jene (nah, mit Nomen)",
+        jp: "sono"
+      },
+      {
+        de: "jene (fern, mit Nomen)",
+        jp: "ano"
+      },
+      {
+        de: "diese (ohne Nomen)",
+        jp: "kore"
+      },
+      {
+        de: "jene (nah, ohne Nomen)",
+        jp: "sore"
+      },
+      {
+        de: "jene (fern, ohne Nomen)",
+        jp: "are"
+      },
+      {
+        de: "welche? (mit Nomen)",
+        jp: "dono"
+      },
+      {
+        de: "welche? (ohne Nomen)",
+        jp: "dore"
+      },
+      {
+        de: "10",
+        jp: "jū"
+      },
+      {
+        de: "100",
+        jp: "hyaku"
+      },
+      {
+        de: "1.000",
+        jp: "sen / issen"
+      },
+      {
+        de: "10.000",
+        jp: "man / ichiman"
+      },
+      {
+        de: "100.000",
+        jp: "jūman"
+      },
+      {
+        de: "1.000.000",
+        jp: "hyakuman"
+      },
+      {
+        de: "Apfel",
+        jp: "ringo"
+      },
+      {
+        de: "Birne",
+        jp: "nashi"
+      },
+      {
+        de: "Mandarine",
+        jp: "mikan"
+      },
+      {
+        de: "Süßigkeiten, Kuchen",
+        jp: "okashi / kēki*"
+      },
+      {
+        de: "Ei",
+        jp: "tamago"
+      },
+      {
+        de: "Aschenbecher",
+        jp: "haizara"
+      },
+      {
+        de: "Streichhölzer",
+        jp: "matchi*"
+      },
+      {
+        de: "Feuerzeug",
+        jp: "raitā*"
+      },
+      {
+        de: "Seife",
+        jp: "sekken"
+      },
+      {
+        de: "Glas",
+        jp: "koppu*"
+      },
+      {
+        de: "Postkarte",
+        jp: "hagaki"
+      },
+      {
+        de: "Ansichtskarte",
+        jp: "ehagaki"
+      },
+      {
+        de: "Briefmarke",
+        jp: "kitte"
+      },
+      {
+        de: "Schallplatte",
+        jp: "rekōdo*"
+      },
+      {
+        de: "Taschentuch",
+        jp: "hankachi*"
+      },
+      {
+        de: "Handtuch",
+        jp: "taoru*"
+      },
+      {
+        de: "Oberhemd",
+        jp: "burausu*"
+      },
+      {
+        de: "Heft",
+        jp: "nōto*"
+      },
+      {
+        de: "Notizbuch",
+        jp: "techō"
+      },
+      {
+        de: "Zeitschrift",
+        jp: "zasshi"
+      },
+      {
+        de: "Wochenschrift",
+        jp: "shūkanshi"
+      },
+      {
+        de: "Telefonbuch",
+        jp: "denwachō"
+      },
+      {
+        de: "Wörterbuch",
+        jp: "jisho / jibiki"
+      },
+      {
+        de: "Album",
+        jp: "arubamu*"
+      },
+      {
+        de: "Briefpapier",
+        jp: "binsen"
+      },
+      {
+        de: "Tagebuch",
+        jp: "nikki(chō)"
+      },
+      {
+        de: "Bleistift",
+        jp: "enpitsu"
+      },
+      {
+        de: "Füller",
+        jp: "man'nenhisu"
+      },
+      {
+        de: "Kugelschreiber",
+        jp: "bōrupen*"
+      },
+      {
+        de: "Krawatte",
+        jp: "nekutai*"
+      },
+      {
+        de: "Blume",
+        jp: "hana"
+      },
+      {
+        de: "Milch",
+        jp: "miruku* / gyūnyū"
+      },
+      {
+        de: "Saft",
+        jp: "jūsu*"
+      },
+      {
+        de: "Reiswein (Sake)",
+        jp: "osake"
+      },
+      {
+        de: "Banane",
+        jp: "banana"
+      },
+      {
+        de: "Packung",
+        jp: "pakku"
+      },
+      {
+        de: "und",
+        jp: "to"
+      },
+      {
+        de: "oder",
+        jp: "X ka Y"
+      },
+      {
+        de: "ausverkauft",
+        jp: "urikire"
+      }
+    ]
+  },
+  {
+    title: "9. tōkyō-kenbutsu no ato de",
+    vocabulary: [
+      {
+        de: "Sommer",
+        jp: "natsu"
+      },
+      {
+        de: "Herbst",
+        jp: "aki"
+      },
+      {
+        de: "Winter",
+        jp: "fuyu"
+      },
+      {
+        de: "Frühling",
+        jp: "haru"
+      },
+      {
+        de: "(am) Morgen",
+        jp: "asa"
+      },
+      {
+        de: "Mittag",
+        jp: "hiru"
+      },
+      {
+        de: "Abend",
+        jp: "ban"
+      },
+      {
+        de: "Nacht",
+        jp: "yoru"
+      },
+      {
+        de: "irgendwo",
+        jp: "doko ka"
+      },
+      {
+        de: "sich erholen / ausruhen",
+        jp: "yasumu"
+      },
+      {
+        de: "ich (männlich)",
+        jp: "boku"
+      },
+      {
+        de: "ungefähr",
+        jp: "gurai"
+      },
+      {
+        de: "Knabbereien",
+        jp: "o-tsumami"
+      },
+      {
+        de: "vor kurzem; kürzlich",
+        jp: "konoaida"
       }
     ]
   }
