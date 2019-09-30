@@ -87,7 +87,7 @@ $('#start-test-button').click(function() {
   setTranslationVisible(0);
   $('#word-display-container-de .word-display-content').html(test_words[0].de.replace(/%u/g, '&#x'));
   $('#word-display-container-jp .word-display-content').html(test_words[0].jp.replace(/%u/g, '&#x'));
-  $('.word-display-container, .word-navigation').show();
+  $('.word-display-container, .word-navigation, .ask-later-button').show();
 });
 
 // Next word / display translation.
@@ -202,8 +202,10 @@ search_ac._renderItem = function( table, item ) {
 };
 
 // Hide the overlay on click.
-$('body').delegate('#learn-overlay', 'click', function() {
-  $(this).hide();
+$('body').delegate('#learn-overlay', 'click', function(e) {
+  if (e.target.id === 'learn-overlay') {
+    $(this).hide();
+  }
 });
 
 $('.direction-selection').click(function() {
@@ -226,6 +228,15 @@ $('.direction-selection').click(function() {
   
   // Hide the new translation.
   setTranslationVisible(0);
+});
+
+// Remember a word an ask for it again at the end.
+$('.ask-later-button').click(function() {
+  if (JSON.stringify(test_words[text_word_index]) !== JSON.stringify(test_words[test_words.length - 1]) ) {
+    test_words.push(test_words[text_word_index]);
+    $('.remaining-word-max').text(test_words.length);
+    $('.remaining-word-count').text(test_words.length - text_word_index);
+  }
 });
 
 // React on button presses.

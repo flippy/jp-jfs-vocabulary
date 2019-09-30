@@ -138,6 +138,15 @@ body {
   padding: 5px;
 }
 
+.ask-later-button {
+  font-size: 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 40px 5px 0 5px;
+  padding: 5px;
+  display: none;
+}
+
 /********* Filter area **********/
 
 .filter-area {
@@ -202,6 +211,10 @@ body {
   -ms-transform: translate(-50%,-50%);
   background-color: #000;
   border: 1px solid;
+  cursor: default;
+  display: block;
+  max-height: calc(90vh);
+  overflow-y: auto;
 }
 
 #learn-overlay-table th,
