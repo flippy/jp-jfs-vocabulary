@@ -466,6 +466,123 @@ var lessons = [
     ]
   },
   {
+    title: "3. Shibaraku desu ne",
+    vocabulary: [
+      {
+        de: "Montag",
+        jp: "getsuyōbi"
+      },
+      {
+        de: "Dienstag",
+        jp: "kayōbi"
+      },
+      {
+        de: "Mittwoch",
+        jp: "suiyōbi"
+      },
+      {
+        de: "Donnerstag",
+        jp: "mokuyōbi"
+      },
+      {
+        de: "Freitag",
+        jp: "kinyōbi"
+      },
+      {
+        de: "Samstag",
+        jp: "doyōbi"
+      },
+      {
+        de: "Sonntag",
+        jp: "nichiyōbi"
+      },
+      {
+        de: "Was für ein Tag",
+        jp: "nan'yōbi"
+      },
+      {
+        de: "Bus",
+        jp: "basu*"
+      },
+      {
+        de: "Straßenbahn",
+        jp: "densha"
+      },
+      {
+        de: "U-Bahn",
+        jp: "chikatetsu"
+      },
+      {
+        de: "Japan railway",
+        jp: "J.R. sen"
+      },
+      {
+        de: "Taxi",
+        jp: "takushi*"
+      },
+      {
+        de: "Schiff",
+        jp: "fune"
+      },
+      {
+        de: "Flugzeug",
+        jp: "hikōki"
+      },
+      {
+        de: "Zug",
+        jp: "kisha"
+      },
+      {
+        de: "Auto",
+        jp: "jidōsha / kuruma"
+      },
+      {
+        de: "zu Fuß gehen",
+        jp: "aruite ikimasu"
+      },
+      {
+        de: "woher?",
+        jp: "doko kara"
+      },
+      {
+        de: "ab wann? / seit wann?",
+        jp: "itsu kara"
+      },
+      {
+        de: "ich",
+        jp: "watakushi / watashi"
+      },
+      {
+        de: "du (unter Bekannten)",
+        jp: "anata"
+      },
+      {
+        de: "er, sie",
+        jp: "kono kata / sono kata / ano kata"
+      },
+      {
+        de: "wer?",
+        jp: "donata / dare"
+      },
+      {
+        de: "du (unter Fremden)",
+        jp: "sochira"
+      },
+      {
+        de: "wie immer / wie üblich",
+        jp: "aikawarazu desu"
+      },
+      {
+        de: "nun, übrigens",
+        jp: "tokoro de"
+      },
+      {
+        de: "also dann",
+        jp: "ja mata"
+      }
+    ]
+  },
+  {
     title: "9. tōkyō-kenbutsu no ato de",
     vocabulary: [
       {
