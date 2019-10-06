@@ -139,7 +139,7 @@ $('.learn-words').click(function() {
  let vocabulary = lessons[lesson_id].vocabulary;
  table_body.empty();
  for (var word_count = 0; word_count < vocabulary.length; word_count++) {
-   table_body.append('<tr><td>' + vocabulary[word_count].jp.replace(/%u/g, '&#x') + '</td><td>' + words_set[word_count].de + '</td></tr>');
+   table_body.append('<tr><td>' + vocabulary[word_count].jp.replace(/%u/g, '&#x') + '</td><td>' + vocabulary[word_count].de + '</td></tr>');
  }
 
  // Show the overlay.
