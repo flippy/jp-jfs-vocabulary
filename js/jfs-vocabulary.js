@@ -195,8 +195,8 @@ var lessons = [
         jp: "kau"
       },
       {
-        de: "sehen",
-        jp: "miru"
+        de: "sehen (informell)",
+        jp: "miru --> mimasu"
       },
       {
         de: "lesen",
@@ -211,8 +211,8 @@ var lessons = [
         jp: "kaeru"
       },
       {
-        de: "tun",
-        jp: "suru"
+        de: "tun / machen (informell)",
+        jp: "suru --> shimasu"
       },
       {
         de: "studieren",
@@ -533,7 +533,7 @@ var lessons = [
         jp: "kisha"
       },
       {
-        de: "Auto",
+        de: "Auto / Wagen",
         jp: "jidōsha / kuruma"
       },
       {
@@ -579,6 +579,287 @@ var lessons = [
       {
         de: "also dann",
         jp: "ja mata"
+      }
+    ]
+  },
+  {
+    title: "4. Kissaten de 1",
+    vocabulary: [
+      {
+        de: "das Café",
+        jp: "kissaten"
+      },
+      {
+        de: "Kellner",
+        jp: "uētā"
+      },
+      {
+        de: "Wie Sie wünschen!",
+        jp: "Kashikomarimashita"
+      },
+      {
+        de: "ruhig",
+        jp: "shizuka"
+      },
+      {
+        de: "oft",
+        jp: "yoku"
+      },
+      {
+        de: "kommen (informell)",
+        jp: "kuru --> kimasu"
+      },
+      {
+        de: "kommen (höflich)",
+        jp: "irassharu --> irasshaimasu"
+      },
+      {
+        de: "manchmal / ab und zu",
+        jp: "tokidoki / tama ni"
+      },
+      {
+        de: "Entschuldigung für das Warten!",
+        jp: "omatase itashimashita"
+      },
+      {
+        de: "Wetter",
+        jp: "o-tenki"
+      },
+      {
+        de: "tun / machen (höflich)",
+        jp: "nasaru --> nasaimasu"
+      },
+      {
+        de: "neu",
+        jp: "atarashii"
+      },
+      {
+        de: "wie?",
+        jp: "dō"
+      },
+      {
+        de: "noch",
+        jp: "mada"
+      },
+      {
+        de: "ein bisschen",
+        jp: "sukoshi"
+      },
+      {
+        de: "sehen (höflich)",
+        jp: "goran ni naru"
+      },
+      {
+        de: "Tempel",
+        jp: "o-tera"
+      },
+      {
+        de: "viel",
+        jp: "takusan"
+      },
+      {
+        de: "natürlich, selbstverständlich",
+        jp: "mochiron"
+      },
+      {
+        de: "von",
+        jp: "kara"
+      },
+      {
+        de: "nahe",
+        jp: "chikai"
+      },
+      {
+        de: "hören",
+        jp: "kiku"
+      },
+      {
+        de: "sehr (+ Adjektiv)",
+        jp: "taihen"
+      },
+      {
+        de: "interessant",
+        jp: "omoshiroi"
+      },
+      {
+        de: "alt",
+        jp: "furui"
+      },
+      {
+        de: "weit entfernt",
+        jp: "tōi"
+      },
+      {
+        de: "Stadt",
+        jp: "machi"
+      },
+      {
+        de: "groß",
+        jp: "ōkii"
+      },
+      {
+        de: "klein",
+        jp: "chiisa"
+      },
+      {
+        de: "Baum",
+        jp: "ki"
+      },
+      {
+        de: "Haus",
+        jp: "uchi"
+      },
+      {
+        de: "verschiedene",
+        jp: "iroiro"
+      },
+      {
+        de: "schön",
+        jp: "kirei"
+      },
+      {
+        de: "Mensch",
+        jp: "hito"
+      },
+      {
+        de: "gern / geliebt",
+        jp: "suki"
+      },
+      {
+        de: "schmeckt gut",
+        jp: "oishii"
+      },
+      {
+        de: "ruhig",
+        jp: "shizuka"
+      },
+      {
+        de: "berühmt",
+        jp: "yūmei"
+      },
+      {
+        de: "gut",
+        jp: "ii, yoi"
+      },
+      {
+        de: "Brief",
+        jp: "tegami"
+      },
+      {
+        de: "Bericht / Nachrichten",
+        jp: "nyūsu*"
+      },
+      {
+        de: "langweilig / wertlos",
+        jp: "tsumaranai"
+      },
+      {
+        de: "schwierig",
+        jp: "muzukashii"
+      },
+      {
+        de: "leicht",
+        jp: "yasashii"
+      },
+      {
+        de: "schlecht",
+        jp: "warui"
+      },
+      {
+        de: "praktisch / günstig",
+        jp: "benri"
+      },
+      {
+        de: "nicht gern / gehasst",
+        jp: "kirai"
+      },
+      {
+        de: "schmeckt nicht",
+        jp: "mazui"
+      },
+      {
+        de: "teuer",
+        jp: "takai"
+      },
+      {
+        de: "billig",
+        jp: "yasui"
+      },
+      {
+        de: "schmutzig",
+        jp: "kitanai"
+      },
+      {
+        de: "Ort",
+        jp: "tokoro"
+      },
+      {
+        de: "welches?",
+        jp: "don'na"
+      },
+      {
+        de: "heiß",
+        jp: "atsui"
+      },
+      {
+        de: "kalt",
+        jp: "samui / tsumetai"
+      },
+      {
+        de: "rot",
+        jp: "akai"
+      },
+      {
+        de: "weiß",
+        jp: "shiroi"
+      },
+      {
+        de: "schwarz",
+        jp: "kuroi"
+      },
+      {
+        de: "Wasser",
+        jp: "mizu"
+      },
+      {
+        de: "Wein",
+        jp: "wain* / budōshu"
+      },
+      {
+        de: "immer",
+        jp: "itsumo"
+      },
+      {
+        de: "meistens",
+        jp: "taitei"
+      },
+      {
+        de: "oft",
+        jp: "yoku"
+      },
+      {
+        de: "ganz / alles",
+        jp: "zenbu / min'na"
+      },
+      {
+        de: "fast",
+        jp: "hotondo"
+      },
+      {
+        de: "selten / ab und zu",
+        jp: "metta ni"
+      },
+      {
+        de: "ziemlich",
+        jp: "daibu"
+      },
+      {
+        de: "ein wenig",
+        jp: "sukoshi"
+      },
+      {
+        de: "nicht so viel / oft",
+        jp: "amari / son'na ni nai"
       }
     ]
   },
