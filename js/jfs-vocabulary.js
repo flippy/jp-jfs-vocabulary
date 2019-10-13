@@ -730,10 +730,6 @@ var lessons = [
         jp: "oishii"
       },
       {
-        de: "ruhig",
-        jp: "shizuka"
-      },
-      {
         de: "berühmt",
         jp: "yūmei"
       },
@@ -854,12 +850,229 @@ var lessons = [
         jp: "daibu"
       },
       {
-        de: "ein wenig",
-        jp: "sukoshi"
-      },
-      {
         de: "nicht so viel / oft",
         jp: "amari / son'na ni nai"
+      }
+    ]
+  },
+  {
+    title: "5. Kissaten de 2",
+    vocabulary: [
+      {
+        de: "Ehemann (mein)",
+        jp: "shujin"
+      },
+      {
+        de: "Ehefrau (meine)",
+        jp: "kanai"
+      },
+      {
+        de: "Vater (mein)",
+        jp: "chichi"
+      },
+      {
+        de: "Mutter (meine)",
+        jp: "haha"
+      },
+      {
+        de: "Sohn (mein)",
+        jp: "musuko"
+      },
+      {
+        de: "Tochter (meine)",
+        jp: "musume"
+      },
+      {
+        de: "Kinder (meine)",
+        jp: "kodomo"
+      },
+      {
+        de: "Geschwister (meine)",
+        jp: "kyōdai"
+      },
+      {
+        de: "älterer Bruder (mein)",
+        jp: "ani"
+      },
+      {
+        de: "ältere Schwester (meine)",
+        jp: "ane"
+      },
+      {
+        de: "jüngerer Bruder (mein)",
+        jp: "otōto"
+      },
+      {
+        de: "jüngere Schwester (meine)",
+        jp: "imōto"
+      },
+      {
+        de: "Familie / Haus (mein)",
+        jp: "uchi"
+      },
+      {
+        de: "Ehemann (Ihr)",
+        jp: "go-shujin"
+      },
+      {
+        de: "Ehefrau (Ihre)",
+        jp: "okusan/-sama"
+      },
+      {
+        de: "Vater (Ihr)",
+        jp: "o-tōsan"
+      },
+      {
+        de: "Mutter (Ihre)",
+        jp: "o-kāsan"
+      },
+      {
+        de: "Sohn (Ihr)",
+        jp: "musukosan"
+      },
+      {
+        de: "Tochter (Ihre)",
+        jp: "ojōsan"
+      },
+      {
+        de: "Kinder (Ihre)",
+        jp: "o-kosan"
+      },
+      {
+        de: "Geschwister (Ihre)",
+        jp: "go-kyōdai"
+      },
+      {
+        de: "älterer Bruder (Ihr)",
+        jp: "o-nīsan"
+      },
+      {
+        de: "ältere Schwester (Ihre)",
+        jp: "o-nēsan"
+      },
+      {
+        de: "jüngerer Bruder (Ihr)",
+        jp: "otōtosan"
+      },
+      {
+        de: "jüngere Schwester (Ihre)",
+        jp: "imōtosan"
+      },
+      {
+        de: "Familie / Haus (Ihr)",
+        jp: "o-taku"
+      },
+      {
+        de: "geschickt sein in etwas",
+        jp: "jōzu (desu)"
+      },
+      {
+        de: "geschickt schreiben",
+        jp: "ji ga jōzu desu"
+      },
+      {
+        de: "gut reden können",
+        jp: "hanashi ga jōzu desu"
+      },
+      {
+        de: "brauchen / nötig haben",
+        jp: "iru --> irimasu"
+      },
+      {
+        de: "wünschen / haben wollen",
+        jp: "hoshii"
+      },
+      {
+        de: "Klavier",
+        jp: "piano*"
+      },
+      {
+        de: "Geld",
+        jp: "o-kane"
+      },
+      {
+        de: "Zeit",
+        jp: "jikan"
+      },
+      {
+        de: "können",
+        jp: "dekiru --> dekimasu"
+      },
+      {
+        de: "schreiben",
+        jp: "kaku --> kakimasu"
+      },
+      {
+        de: "sprechen",
+        jp: "hanasu --> hanashimasu"
+      },
+      {
+        de: "kaufen können",
+        jp: "kaeru --> kaemasu"
+      },
+      {
+        de: "schreiben können",
+        jp: "kakeru --> kakemasu"
+      },
+      {
+        de: "sprechen können",
+        jp: "hanaseru --> hanasemasu"
+      },
+      {
+        de: "essen können",
+        jp: "taberareru --> taberaremasu"
+      },
+      {
+        de: "kommen können",
+        jp: "korareru --> koraremasu"
+      },
+      {
+        de: "lesen können",
+        jp: "yomeru -> yomemasu"
+      },
+      {
+        de: "trinken können",
+        jp: "nomeru --> nomemasu"
+      },
+      {
+        de: "auch",
+        jp: "mo"
+      },
+      {
+        de: "Im Allgemeinen",
+        jp: "daitai"
+      },
+      {
+        de: "verwenden",
+        jp: "tsukau --> tsukaimasu"
+      },
+      {
+        de: "eine (Person)",
+        jp: "hitori"
+      },
+      {
+        de: "zwei (Personen)",
+        jp: "futari"
+      },
+      {
+        de: "wie viele? (Personen)",
+        jp: "nan-nin"
+      },
+      {
+        de: "überhaupt",
+        jp: "zenzen"
+      },
+      {
+        de: "nächster Monat",
+        jp: "raigetsu"
+      },
+      {
+        de: "Mädchen",
+        jp: "onna no ko"
+      },
+      {
+        de: "Junge",
+        jp: "otoko no ko"
       }
     ]
   },
