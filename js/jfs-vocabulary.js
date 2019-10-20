@@ -1077,6 +1077,227 @@ var lessons = [
     ]
   },
   {
+    title: "6. Nihongo no gakkō",
+    vocabulary: [
+      {
+        de: "hier",
+        jp: "koko"
+      },
+      {
+        de: "da",
+        jp: "soko"
+      },
+      {
+        de: "dort",
+        jp: "asoko"
+      },
+      {
+        de: "wo?",
+        jp: "doko"
+      },
+      {
+        de: "es gibt / existieren / sein (lebendiges Wesen)",
+        jp: "iru --> imasu"
+      },
+      {
+        de: "es gibt / existieren / sein (Ding)",
+        jp: "aru --> arimasu"
+      },
+      {
+        de: "vor",
+        jp: "mae"
+      },
+      {
+        de: "hinter",
+        jp: "ushiro"
+      },
+      {
+        de: "jenseits",
+        jp: "mukō"
+      },
+      {
+        de: "diesseits",
+        jp: "temae"
+      },
+      {
+        de: "in der Nähe von",
+        jp: "chikaku"
+      },
+      {
+        de: "neben",
+        jp: "tonari"
+      },
+      {
+        de: "rechts",
+        jp: "migi"
+      },
+      {
+        de: "links",
+        jp: "hidari"
+      },
+      {
+        de: "innerhalb",
+        jp: "naka"
+      },
+      {
+        de: "außerhalb",
+        jp: "soto"
+      },
+      {
+        de: "über / auf",
+        jp: "ue"
+      },
+      {
+        de: "unter",
+        jp: "shita"
+      },
+      {
+        de: "gegenüber",
+        jp: "mukai"
+      },
+      {
+        de: "von ... bis ...",
+        jp: "... kara ... made"
+      },
+      {
+        de: "sowohl ... als auch ...",
+        jp: "... mo ... mo"
+      },
+      {
+        de: "weder ... noch ...",
+        jp: "... mo ... mo + negatives Verb"
+      },
+      {
+        de: "wie viele Jahre?",
+        jp: "nan-nen"
+      },
+      {
+        de: "wie viele Monate?",
+        jp: "nan-kagetsu"
+      },
+      {
+        de: "welcher Monat",
+        jp: "nan-gatsu"
+      },
+      {
+        de: "welcher Tag?",
+        jp: "nan-nichi?"
+      },
+      {
+        de: "welcher Stock?",
+        jp: "nan-gai"
+      },
+      {
+        de: "Schuldirektor",
+        jp: "kōchoō-sensei"
+      },
+      {
+        de: "Lehrer",
+        jp: "sensei"
+      },
+      {
+        de: "Schüler",
+        jp: "seito"
+      },
+      {
+        de: "Professor",
+        jp: "kyōju"
+      },
+      {
+        de: "Student",
+        jp: "gakusei"
+      },
+      {
+        de: "Direktor",
+        jp: "shachō"
+      },
+      {
+        de: "Arzt",
+        jp: "isha / o-isha-san"
+      },
+      {
+        de: "Bank",
+        jp: "ginkō"
+      },
+      {
+        de: "Kino",
+        jp: "eigakan"
+      },
+      {
+        de: "Botschaft",
+        jp: "taishikan"
+      },
+      {
+        de: "Krankenhaus",
+        jp: "byōin"
+      },
+      {
+        de: "Postamt",
+        jp: "yūbinkyoku"
+      },
+      {
+        de: "Polizeiwache",
+        jp: "kōban"
+      },
+      {
+        de: "Bahnhof",
+        jp: "eki"
+      },
+      {
+        de: "Zigarettenladen",
+        jp: "tabakoya"
+      },
+      {
+        de: "Buchhandlung",
+        jp: "honya"
+      },
+      {
+        de: "Apotheke",
+        jp: "kusuriya"
+      },
+      {
+        de: "Blumenladen",
+        jp: "hanaya"
+      },
+      {
+        de: "Bäckerei",
+        jp: "panya"
+      },
+      {
+        de: "Passant",
+        jp: "tsūkōnin"
+      },
+      {
+        de: "Portier",
+        jp: "shuei"
+      },
+      {
+        de: "Sekretär",
+        jp: "hisho"
+      },
+      {
+        de: "Hochhaus",
+        jp: "biru"
+      },
+      {
+        de: "Tür",
+        jp: "doā*"
+      },
+      {
+        de: "Fahrstuhl",
+        jp: "erebētā*"
+      },
+      {
+        de: "das neue Semester",
+        jp: "shingakki"
+      },
+      {
+        de: "Studiengebühr",
+        jp: "jugyōryō"
+      }
+    ]
+  },
+  {
     title: "9. tōkyō-kenbutsu no ato de",
     vocabulary: [
       {
