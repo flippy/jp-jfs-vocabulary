@@ -56,7 +56,7 @@ var lessons = [
       },
       {
         de: "arbeiten",
-        jp: "shigoto o suru"
+        jp: "shigoto o suru / hataraku --> hatarakimasu"
       },
       {
         de: "Gute Nacht!",
@@ -240,7 +240,7 @@ var lessons = [
         jp: "kaimono"
       },
       {
-        de: "Kunde",
+        de: "Kunde / Besucher",
         jp: "kyaku"
       },
       {
@@ -671,7 +671,7 @@ var lessons = [
       },
       {
         de: "hören",
-        jp: "kiku"
+        jp: "kiku --> kikimasu"
       },
       {
         de: "sehr (+ Adjektiv)",
@@ -1294,6 +1294,99 @@ var lessons = [
       {
         de: "Studiengebühr",
         jp: "jugyōryō"
+      }
+    ]
+  },
+  {
+    title: "7. Raikyaku",
+    vocabulary: [
+      {
+        de: "sich erinnern",
+        jp: "oboeru --> oboemasu"
+      },
+      {
+        de: "lehren / unterrichten",
+        jp: "oshieru --> oshiemasu"
+      },
+      {
+        de: "beschäftigt sein / angestellt sein",
+        jp: "tsutomeru --> tsutomemasu"
+      },
+      {
+        de: "leihen",
+        jp: "kasu --> kashimasu"
+      },
+      {
+        de: "lernen",
+        jp: "narau --> naraimasu"
+      },
+      {
+        de: "verstehen",
+        jp: "wakaru --> wakarimasu"
+      },
+      {
+        de: "verkaufen",
+        jp: "uru --> urimasu"
+      },
+      {
+        de: "einsteigen",
+        jp: "noru --> norimasu"
+      },
+      {
+        de: "wissen / kennen",
+        jp: "shiru --> shirimasu"
+      },
+      {
+        de: "warten",
+        jp: "matsu --> machimasu"
+      },
+      {
+        de: "haben",
+        jp: "motsu --> mochimasu"
+      },
+      {
+        de: "wohnen",
+        jp: "sumu --> sumimasu"
+      },
+      {
+        de: "spielen",
+        jp: "asobu --> asobimasu"
+      },
+      {
+        de: "heiraten",
+        jp: "kekkon suru"
+      },
+      {
+        de: "vorbereiten",
+        jp: "yööi o suru"
+      },
+      {
+        de: "dieses Jahr",
+        jp: "kotoshi"
+      },
+      {
+        de: "malen",
+        jp: "e o kaku"
+      },
+      {
+        de: "es klingelt",
+        jp: "beru* ga naru"
+      },
+      {
+        de: "Hauseingang",
+        jp: "genkan"
+      },
+      {
+        de: "Herein!",
+        jp: "o-hairinasai!"
+      },
+      {
+        de: "ganz / völlig",
+        jp: "sukkari"
+      },
+      {
+        de: "nun / übrigens",
+        jp: "tokorode"
       }
     ]
   },

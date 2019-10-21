@@ -237,6 +237,10 @@ $('.ask-later-button').click(function() {
     $('.remaining-word-max').text(test_words.length);
     $('.remaining-word-count').text(test_words.length - text_word_index);
   }
+
+  // Move to the next word afterwards.
+  setTranslationVisible(1);
+  $('#next-word-button').click();
 });
 
 // React on button presses.
