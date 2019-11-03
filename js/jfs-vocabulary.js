@@ -188,7 +188,7 @@ var lessons = [
       },
       {
         de: "gehen",
-        jp: "iku"
+        jp: "iku --> ikimasu; aruku --> arukimasu"
       },
       {
         de: "kaufen",
@@ -1305,7 +1305,7 @@ var lessons = [
         jp: "oboeru --> oboemasu"
       },
       {
-        de: "lehren / unterrichten",
+        de: "lehren / unterrichten / erklären",
         jp: "oshieru --> oshiemasu"
       },
       {
@@ -1358,7 +1358,7 @@ var lessons = [
       },
       {
         de: "vorbereiten",
-        jp: "yööi o suru"
+        jp: "yōi o suru"
       },
       {
         de: "dieses Jahr",
@@ -1387,6 +1387,171 @@ var lessons = [
       {
         de: "nun / übrigens",
         jp: "tokorode"
+      }
+    ]
+  },
+  {
+    title: "8. Sanpo",
+    vocabulary: [
+      {
+        de: "zeigen",
+        jp: "miseru --> misemasu"
+      },
+      {
+        de: "Feuer",
+        jp: "hi"
+      },
+      {
+        de: "Telefon",
+        jp: "denwa"
+      },
+      {
+        de: "nehmen / reichen",
+        jp: "toru --> torimasu"
+      },
+      {
+        de: "weg werfen",
+        jp: "suteru --> sutemasu"
+      },
+      {
+        de: "vergessen",
+        jp: "wasureru --> wasuremasu"
+      },
+      {
+        de: "betreten / herein kommen",
+        jp: "hairu --> hairimasu"
+      },
+      {
+        de: "sagen",
+        jp: "iu --> iimasu"
+      },
+      {
+        de: "Gras / Wiese",
+        jp: "shibafu"
+      },
+      {
+        de: "Papier / Altpapier",
+        jp: "kamikuzu"
+      },
+      {
+        de: "Park",
+        jp: "kōen"
+      },
+      {
+        de: "Sitzbank",
+        jp: "benchi*"
+      },
+      {
+        de: "sitzen / setzen",
+        jp: "koshikakeru --> koshikakemasu"
+      },
+      {
+        de: "Hand",
+        jp: "te"
+      },
+      {
+        de: "bleiben / stoppen",
+        jp: "tomaru --> tomarimasu"
+      },
+      {
+        de: "Hotel",
+        jp: "hoteru*"
+      },
+      {
+        de: "stellen / legen",
+        jp: "oku --> okimasu"
+      },
+      {
+        de: "zurück geben",
+        jp: "kaesu --> kaeshimasu"
+      },
+      {
+        de: "geben",
+        jp: "ageru --> agemasu"
+      },
+      {
+        de: "Ausländer",
+        jp: "gaijin"
+      },
+      {
+        de: "(jemanden) treffen",
+        jp: "au --> aimasu"
+      },
+      {
+        de: "erbitten",
+        jp: "tanomu --> tanomimasu"
+      },
+      {
+        de: "Gesundheit",
+        jp: "karada"
+      },
+      {
+        de: "öffnen",
+        jp: "aku --> akimasu"
+      },
+      {
+        de: "hinauf gehen",
+        jp: "agaru --> agarimasu"
+      },
+      {
+        de: "schlafen",
+        jp: "neru --> nemasu"
+      },
+      {
+        de: "Telefonnummer",
+        jp: "denwabangō"
+      },
+      {
+        de: "sofort",
+        jp: "sugu"
+      },
+      {
+        de: "Whiskey",
+        jp: "uisuki*"
+      },
+      {
+        de: "rauchen",
+        jp: "suu --> suimasu"
+      },
+      {
+        de: "benachrichtigen",
+        jp: "shiraseru --> shirasemasu"
+      },
+      {
+        de: "anschalten / anzünden",
+        jp: "tsukeru --> tsukemasu"
+      },
+      {
+        de: "unhöflich",
+        jp: "shitsurei"
+      },
+      {
+        de: "und / dann / nun",
+        jp: "sōshite"
+      },
+      {
+        de: "eilig",
+        jp: "isogi"
+      },
+      {
+        de: "Tasche im Kleidungsstück",
+        jp: "poketto*"
+      },
+      {
+        de: "heraus nehmen",
+        jp: "dasu --> dashimasu"
+      },
+      {
+        de: "solch-",
+        jp: "kon'na"
+      },
+      {
+        de: "das nächste",
+        jp: "tsugi"
+      },
+      {
+        de: "also / dann",
+        jp: "de wa"
       }
     ]
   },
