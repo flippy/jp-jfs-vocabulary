@@ -992,7 +992,7 @@ var lessons = [
       },
       {
         de: "Zeit",
-        jp: "jikan"
+        jp: "jikan / hima"
       },
       {
         de: "können",
@@ -1613,6 +1613,199 @@ var lessons = [
       {
         de: "vor kurzem; kürzlich",
         jp: "konoaida"
+      }
+    ]
+  },
+  {
+    title: "10. Ryokō kara kaette",
+    vocabulary: [
+      {
+        de: "Reise",
+        jp: "ryokō"
+      },
+      {
+        de: "Reiseandenken / Geschenk",
+        jp: "o-miyage"
+      },
+      {
+        de: "sehr; in hohem Maße",
+        jp: "totemo"
+      },
+      {
+        de: "angenehm / erfreulich / amüsant",
+        jp: "tanoshii"
+      },
+      {
+        de: "voll sein",
+        jp: "konde iru"
+      },
+      {
+        de: "leer sein",
+        jp: "suite iru"
+      },
+      {
+        de: "verhältnismäßig / ziemlich",
+        jp: "wariai ni"
+      },
+      {
+        de: "durchaus nicht / gar nicht",
+        jp: "zenzen ... nai"
+      },
+      {
+        de: "klar / deutlich",
+        jp: "hakkiri"
+      },
+      {
+        de: "sehen können / sich sehen lassen",
+        jp: "mieru --> miemasu"
+      },
+      {
+        de: "wichtig",
+        jp: "daiji"
+      },
+      {
+        de: "weil / von",
+        jp: "kara"
+      },
+      {
+        de: "zum ersten Mal",
+        jp: "hajimete"
+      },
+      {
+        de: "fröhlich / munter / lustig",
+        jp: "nigiyaka"
+      },
+      {
+        de: "immerfort / laufend",
+        jp: "dondon"
+      },
+      {
+        de: "langsam",
+        jp: "yukkuri / sorosoro"
+      },
+      {
+        de: "aber",
+        jp: "demo"
+      },
+      {
+        de: "gestern Abend / letzte Nacht",
+        jp: "yūbe"
+      },
+      {
+        de: "heute Abend",
+        jp: "kon'ya"
+      },
+      {
+        de: "übrigens",
+        jp: "ā sore kara"
+      },
+      {
+        de: "nichts Besonderes",
+        jp: "tsumaranai mono"
+      },
+      {
+        de: "essen (höflich)",
+        jp: "meshiagaru --> meshiagarimasu"
+      },
+      {
+        de: "sehr",
+        jp: "hijō"
+      },
+      {
+        de: "schnell",
+        jp: "hayai / isoide"
+      },
+      {
+        de: "vergnügt",
+        jp: "yorokonde"
+      },
+      {
+        de: "recht + Adjektiv",
+        jp: "sōtō"
+      },
+      {
+        de: "ziemlich",
+        jp: "kanari"
+      },
+      {
+        de: "gar nicht",
+        jp: "chittomo / sukoshimo / zenzen"
+      },
+      {
+        de: "wirklich",
+        jp: "hontō"
+      },
+      {
+        de: "tatsächlich",
+        jp: "tashika"
+      },
+      {
+        de: "unbedingt",
+        jp: "zehi"
+      },
+      {
+        de: "sicher / bestimmt",
+        jp: "kitto"
+      },
+      {
+        de: "endlich",
+        jp: "yatto"
+      },
+      {
+        de: "wieder",
+        jp: "mata"
+      },
+      {
+        de: "schon + Verb",
+        jp: "mō"
+      },
+      {
+        de: "nie wieder",
+        jp: "mō nai"
+      },
+      {
+        de: "noch einmal",
+        jp: "mō ichido"
+      },
+      {
+        de: "viel + Verb / Adjektiv",
+        jp: "zutto"
+      },
+      {
+        de: "der andere",
+        jp: "mō hitori"
+      },
+      {
+        de: "(Komperativ)",
+        jp: "motto + Adjektiv"
+      },
+      {
+        de: "(Superlativ)",
+        jp: "ichiban + Adjektiv"
+      },
+      {
+        de: "sicherlich",
+        jp: "kanarazu"
+      },
+      {
+        de: "müde werden",
+        jp: "tsukareru --> tsukaremasu"
+      },
+      {
+        de: "Kamera",
+        jp: "kamera*"
+      },
+      {
+        de: "Laden",
+        jp: "mise"
+      },
+      {
+        de: "sich beeilen",
+        jp: "isogu --> isogimasu"
+      },
+      {
+        de: "warum?",
+        jp: "naze / dōshite / nande"
       }
     ]
   }
