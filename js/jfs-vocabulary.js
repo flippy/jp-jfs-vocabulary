@@ -1826,11 +1826,11 @@ var lessons = [
       },
       {
         de: "Blinddarm",
-        jp: "mööchöö"
+        jp: "mōchō"
       },
       {
         de: "ins Krankenhaus eingeliefert werden",
-        jp: "nyüüin suru"
+        jp: "nyūin suru"
       },
       {
         de: "aus dem Krankenhaus entlassen werden",
@@ -1854,7 +1854,7 @@ var lessons = [
       },
       {
         de: "das Putzen",
-        jp: "sööji"
+        jp: "sōji"
       },
       {
         de: "die Mahlzeit (höflich)",
@@ -1942,7 +1942,7 @@ var lessons = [
       },
       {
         de: "krank",
-        jp: "byööki"
+        jp: "byōki"
       },
       {
         de: "ehe",
@@ -1954,7 +1954,7 @@ var lessons = [
       },
       {
         de: "Übung",
-        jp: "renshüü"
+        jp: "renshū"
       },
       {
         de: "Beruhigung",
@@ -1970,7 +1970,7 @@ var lessons = [
       },
       {
         de: "Vorstellung (zwischen Personen)",
-        jp: "shöökai"
+        jp: "shōkai"
       },
       {
         de: "Antwort",
@@ -2002,7 +2002,7 @@ var lessons = [
       },
       {
         de: "frei",
-        jp: "jiyüü na"
+        jp: "jiyū na"
       },
       {
         de: "angenehm / bequem",
