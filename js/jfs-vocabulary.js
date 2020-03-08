@@ -599,7 +599,7 @@ var lessons = [
       },
       {
         de: "ruhig",
-        jp: "shizuka"
+        jp: "shizuka na"
       },
       {
         de: "oft",
@@ -699,7 +699,7 @@ var lessons = [
       },
       {
         de: "klein",
-        jp: "chiisa"
+        jp: "chiisai"
       },
       {
         de: "Baum",
@@ -714,8 +714,8 @@ var lessons = [
         jp: "iroiro"
       },
       {
-        de: "schön",
-        jp: "kirei"
+        de: "schön / sauber",
+        jp: "kirei na"
       },
       {
         de: "Mensch",
@@ -1019,8 +1019,8 @@ var lessons = [
         jp: "hanaseru --> hanasemasu"
       },
       {
-        de: "essen können",
-        jp: "taberareru --> taberaremasu"
+        de: "essen",
+        jp: "taberu --> tabemasu"
       },
       {
         de: "kommen können",
@@ -1575,6 +1575,10 @@ var lessons = [
         jp: "haru"
       },
       {
+        de: "kenbutsu",
+        jp: "Besichtigung"
+      },
+      {
         de: "(am) Morgen",
         jp: "asa"
       },
@@ -1632,7 +1636,7 @@ var lessons = [
         jp: "totemo"
       },
       {
-        de: "angenehm / erfreulich / amüsant",
+        de: "erfreulich / amüsant",
         jp: "tanoshii"
       },
       {
@@ -1641,7 +1645,7 @@ var lessons = [
       },
       {
         de: "leer sein",
-        jp: "suite iru"
+        jp: "suite iru / sukiru --> sukimasu"
       },
       {
         de: "verhältnismäßig / ziemlich",
@@ -1806,6 +1810,283 @@ var lessons = [
       {
         de: "warum?",
         jp: "naze / dōshite / nande"
+      }
+    ]
+  },
+  {
+    title: "11. O-mimai",
+    vocabulary: [
+      {
+        de: "Krankenbesuch",
+        jp: "o-mimai"
+      },
+      {
+        de: "Operation",
+        jp: "shujutsu"
+      },
+      {
+        de: "Blinddarm",
+        jp: "mööchöö"
+      },
+      {
+        de: "ins Krankenhaus eingeliefert werden",
+        jp: "nyüüin suru"
+      },
+      {
+        de: "aus dem Krankenhaus entlassen werden",
+        jp: "tai'in suru"
+      },
+      {
+        de: "während (temporal)",
+        jp: "aida / uchi ni"
+      },
+      {
+        de: "bevor (temporal)",
+        jp: "mae ni"
+      },
+      {
+        de: "nachdem (temporal)",
+        jp: "ato de"
+      },
+      {
+        de: "das Waschen",
+        jp: "sentaku"
+      },
+      {
+        de: "das Putzen",
+        jp: "sööji"
+      },
+      {
+        de: "die Mahlzeit (höflich)",
+        jp: "shokuji"
+      },
+      {
+        de: "verschieben / später tun",
+        jp: "aot ni suru"
+      },
+      {
+        de: "sonst / anderes",
+        jp: "hoka"
+      },
+      {
+        de: "Ton / Laut",
+        jp: "oto"
+      },
+      {
+        de: "hell",
+        jp: "akarui"
+      },
+      {
+        de: "Nachmittag",
+        jp: "gogo"
+      },
+      {
+        de: "Vormittag",
+        jp: "gozen"
+      },
+      {
+        de: "etwa (Uhrzeit)",
+        jp: "goro"
+      },
+      {
+        de: "als / wenn",
+        jp: "toki"
+      },
+      {
+        de: "überrascht",
+        jp: "bikkuri"
+      },
+      {
+        de: "einige Zeit lang",
+        jp: "shibaraku"
+      },
+      {
+        de: "abwesend sein / nicht zu Hause sein",
+        jp: "rusu o suru"
+      },
+      {
+        de: "Sorgen machen",
+        jp: "shinpai suru"
+      },
+      {
+        de: "sich schonen",
+        jp: "karada o daiji ni suru"
+      },
+      {
+        de: "sich überanstrengen",
+        jp: "muri o suru"
+      },
+      {
+        de: "Grußformel beim selbst heimkommen",
+        jp: "tadaima"
+      },
+      {
+        de: "Grußformel beim Emptfang des Nach-Hause-Kommenden",
+        jp: "okaerinasai"
+      },
+      {
+        de: "Zimmer",
+        jp: "heya"
+      },
+      {
+        de: "Unterwäsche",
+        jp: "shitagi"
+      },
+      {
+        de: "einfach",
+        jp: "kantan na"
+      },
+      {
+        de: "werden",
+        jp: "naru --> narimasu"
+      },
+      {
+        de: "krank",
+        jp: "byööki"
+      },
+      {
+        de: "ehe",
+        jp: "nai uchi ni"
+      },
+      {
+        de: "Versprechen / Verabredung",
+        jp: "yakusoku"
+      },
+      {
+        de: "Übung",
+        jp: "renshüü"
+      },
+      {
+        de: "Beruhigung",
+        jp: "anshin"
+      },
+      {
+        de: "Zurückhaltung",
+        jp: "enryo"
+      },
+      {
+        de: "Störung",
+        jp: "jama"
+      },
+      {
+        de: "Vorstellung (zwischen Personen)",
+        jp: "shöökai"
+      },
+      {
+        de: "Antwort",
+        jp: "henji"
+      },
+      {
+        de: "breit",
+        jp: "hiroi"
+      },
+      {
+        de: "eng",
+        jp: "semai"
+      },
+      {
+        de: "lang",
+        jp: "nagai"
+      },
+      {
+        de: "kurz",
+        jp: "mijikai"
+      },
+      {
+        de: "dunkel",
+        jp: "kurai"
+      },
+      {
+        de: "vollkommen",
+        jp: "kanzen na"
+      },
+      {
+        de: "frei",
+        jp: "jiyüü na"
+      },
+      {
+        de: "angenehm / bequem",
+        jp: "raku na"
+      },
+      {
+        de: "beschäftigt",
+        jp: "isogashii"
+      },
+      {
+        de: "er",
+        jp: "kare"
+      },
+      {
+        de: "sie",
+        jp: "kanojo"
+      },
+      {
+        de: "Gesicht",
+        jp: "kao"
+      },
+      {
+        de: "raus gehen",
+        jp: "deru --> demasu"
+      },
+      {
+        de: "gbeoren werden",
+        jp: "umareru --> umaremasu"
+      },
+      {
+        de: "entscheiden",
+        jp: "kimeru --> kimemasu"
+      },
+      {
+        de: "Kind",
+        jp: "ko"
+      },
+      {
+        de: "aussteigen",
+        jp: "oriru --> orimasu"
+      },
+      {
+        de: "aufwachen",
+        jp: "me ga sameru"
+      },
+      {
+        de: "enden",
+        jp: "owaru --> owarimasu"
+      },
+      {
+        de: "verspäten",
+        jp: "okureru --> okuremasu"
+      },
+      {
+        de: "regnen",
+        jp: "ame ga furu"
+      },
+      {
+        de: "aufhören",
+        jp: "yamu --> yamimasu"
+      },
+      {
+        de: "jeden Tag",
+        jp: "mainichi"
+      },
+      {
+        de: "sitzen",
+        jp: "suwaru --> suwarimasu"
+      },
+      {
+        de: "kühl",
+        jp: "suzushii"
+      },
+      {
+        de: "Gewicht zulegen",
+        jp: "futoru --> futorimasu"
+      },
+      {
+        de: "Land",
+        jp: "kuni"
+      },
+      {
+        de: "ausgehen",
+        jp: "dekakeru --> dekakemasu"
       }
     ]
   }
