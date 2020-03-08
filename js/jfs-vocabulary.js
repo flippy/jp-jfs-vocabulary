@@ -1556,7 +1556,7 @@ var lessons = [
     ]
   },
   {
-    title: "9. tōkyō-kenbutsu no ato de",
+    title: "9. Tōkyō-kenbutsu no ato de",
     vocabulary: [
       {
         de: "Sommer",
